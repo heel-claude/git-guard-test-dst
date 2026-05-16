@@ -1,0 +1,14 @@
+work:
+  type: "work1"
+  time_window:
+    start: "08:00"
+    end: "16:00"
+
+git_author:
+  name: "Tomek Kowalski"
+  email: "tomek@company1.com"
+
+commit_splitting:
+  max_loc: 250
+  max_files: 10
+  strategy: "mixed"
